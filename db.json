@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "name": "ravi",
+      "email": "ravi@gmail.com",
+      "mobile": "0987654",
+      "salary": "345678"
+    },
+    {
+      "id": 7,
+      "name": "prakhar",
+      "email": "prakhar@gmail.com",
+      "mobile": "9889899898",
+      "salary": "100,000"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
